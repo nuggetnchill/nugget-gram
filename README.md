@@ -13,3 +13,7 @@ An app that uploads images, store them in Firebase Storage, then capture the url
 - React Js
 - FireBase
 - [Framer-Motion](https://www.framer.com/motion/)
+
+(sorry this app is not deployed because it's just a educational project)
+
+If you want to check it out please clone this repo and use ` npm start `
